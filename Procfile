@@ -1,0 +1,1 @@
+web: gunicorn bootcamphomework12-2019-09-04.app:app
