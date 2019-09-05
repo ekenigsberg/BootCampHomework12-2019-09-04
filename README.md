@@ -10,4 +10,4 @@ to<br/>
 # Technical Insights
 
 * The thing that prevented my Heroku app from running for hours and hours? I needed to add the one-line run.sh file. Argh.
-* Excited to start reverse-engineering the apps at [Cloud Toolkit](cloudtoolkit.co) now.
+* Excited to start reverse-engineering the apps at [Cloud Toolkit](https://cloudtoolkit.co) now.
