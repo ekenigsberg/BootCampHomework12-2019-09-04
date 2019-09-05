@@ -10,4 +10,5 @@ to<br/>
 # Technical Insights
 
 * The thing that prevented my Heroku app from running for hours and hours? I needed to add the one-line run.sh file. Argh.
+* My Heroku Git repository isn't browsable on the web? Ugh, okay, from now on I'm going to deploy to Heroku via GitHub. 
 * Excited to start reverse-engineering the apps at [Cloud Toolkit](https://cloudtoolkit.co) now.
